@@ -1,6 +1,7 @@
 # BostonRestaurantRecommender
 
 **Extract**
+
 Dataset is my collection of visited boston restaurants. it has unique ID, restaurant name, restaurant type(ice cream, coffee, korean, etc), img of restaurant, rating
 
 **BACKSTORY**
