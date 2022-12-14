@@ -1,10 +1,9 @@
 # BostonRestaurantRecommender
 
 **Extract**
+Dataset is my collection of visited boston restaurants. it has unique ID, restaurant name, restaurant type(ice cream, coffee, korean, etc), img of restaurant, rating
 
-**************************Data wanted:************************** restuarant name**************************,************************** restuarant type(korean,chinese,etc), img of restaurant, rating(from google)
-
-***********************BACKSTORY*:** 
+**BACKSTORY**
 
 I keep track of the restaurant name and details whenever I visit one. As time goes, I have a big list of restaurants in Boston area. I want to use these data to make a recommender for my friends who are new to boston or cannot think of a place to go!
 
