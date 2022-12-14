@@ -1,6 +1,6 @@
 # BostonRestaurantRecommender
 
-***********************Extract*:** 
+**Extract**
 
 **************************Data wanted:************************** restuarant name**************************,************************** restuarant type(korean,chinese,etc), img of restaurant, rating(from google)
 
