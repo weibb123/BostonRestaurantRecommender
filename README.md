@@ -1,16 +1,16 @@
 # BostonRestaurantRecommender
 
-<h1>Problem statement</h1>
+<h2>Problem statement</h2>
 
-<h1>Backstory</h1>
+<h2>Backstory</h2>
 
-<h1>Methods</h1>
+<h2>Methods</h2>
 
-<h1>Challenge</h1>
+<h2>Challenge</h2>
 
-<h1>Result</h1>
+<h2>Result</h2>
 
-<h1>Conclusion</h1>
+<h2>Conclusion</h2>
 
 **Extract**
 
