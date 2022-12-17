@@ -1,8 +1,10 @@
 # BostonRestaurantRecommender
 
 <h2>Problem statement</h2>
+Recommend user Boston Restaurants
 
 <h2>Backstory</h2>
+I keep track of the restaurant name and details whenever I visit one. As time goes, I have a big list of restaurants in Boston area. I want to use these data to make a recommender for my friends who are new to boston or cannot think of a place to go!
 
 <h2>Methods</h2>
 
