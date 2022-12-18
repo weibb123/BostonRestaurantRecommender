@@ -1,5 +1,7 @@
 # BostonRestaurantRecommender
 
+Link to WEB APP: https://weibb123-bostonrestaurantrecommender-app-esfyxy.streamlit.app/
+
 <h2>Problem statement</h2>
 Recommend user Boston Restaurants
 
