@@ -4,7 +4,7 @@
 Recommend user Boston Restaurants
 
 <h2>Backstory</h2>
-I keep track of the restaurant name and details whenever I visit one. As time goes, I have a big list of restaurants in Boston area. I want to use these data to make a recommender for my friends who are new to boston or when cannot think of a place to go!
+As Bostonian, I keep track of the restaurant name and details whenever I visit one. As time goes, I have a list of 44 restaurants in Boston area. I want to use these data to make a recommender for my friends who are new to boston or when cannot think of a place to go!
 
 <h2>Methods</h2>
 Dataset comes from my personal list of 44 Boston restaurants in Notion.
