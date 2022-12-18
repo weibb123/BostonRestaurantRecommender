@@ -31,8 +31,7 @@ then utilized cosine similarity to find similar restaurants based on user input.
 Because this is my first time trying to build ML APP and I didn't have strong expertise on front end. I decided to give streamlit a try and reading through the documentation which then help me build and deploy my app efficiently.
 
 <h2>Result</h2>
-[image](https://user-images.githubusercontent.com/84426364/208280331-f7cefcef-fcb6-4d8e-b397-5c2f282b6bff.png)
-
+<img src="https://user-images.githubusercontent.com/84426364/208280331-f7cefcef-fcb6-4d8e-b397-5c2f282b6bff.png">
 
 <h2>Conclusion</h2>
 Scale up with Neural Network Algorithms
