@@ -45,3 +45,13 @@ Model can capture specific interests of a user.
 However, model can only make recommendations based on existing interests of the user, which not fully allowing user to expand their existing interest.
 
 Try hybrid recommender(collaborative recommender) requires user-information which need backend implemented
+
+To measure the effectiveness of recommender system, we might interest in time users spend, average purchase revenue per user, # of products recommended
+
+If we have two recommender system that is being compared, we can use A/B Testing.
+
+<b>control group</b> uses exist recommender system
+
+<b>treatment</b> Have new version of recommender system
+
+<b>Metrics choice </b>
